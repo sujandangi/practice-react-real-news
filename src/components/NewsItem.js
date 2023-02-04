@@ -6,11 +6,11 @@ export class NewsItem extends Component {
     let {title, description, url, urlToImage, author, publishedAt, source} = this.props;
     // console.log(this.props)
     if(!title) title = "News Title Here"
-    if(!urlToImage) urlToImage = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fvectors%2Fnews-information-newsletter-info-1644696%2F&psig=AOvVaw053qzUVra92CfTCUnM1F8e&ust=1675428673506000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDvkrPw9vwCFQAAAAAdAAAAABAD";
+    if(!urlToImage) urlToImage = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_News&psig=AOvVaw3dF4JQ5ui375cgFnF6t5HH&ust=1675597227750000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC3lKDk-_wCFQAAAAAdAAAAABAD";
     if(!description) description = "News Description Here" 
 
     return (
-      <div className="col-md-4  border">
+      <div className="col-md-4">
         <div className="m-2 p-2 border border-success rounded  bg-white" >
           <img src={urlToImage} className="card-img-top" alt="..." style={{maxHeight: "200px", objectFit: "cover"}}/>
           <div className="card-body">
