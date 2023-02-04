@@ -1,0 +1,15 @@
+App
+|_ Navbar- Home, Categories, other...
+|_ News- contains the cards of news of chosen category
+    |_ NewsItem (iterated)
+|_ Footer- information about developer
+
+Data- fetched from newsAPI
+
+Features
+|_ Dark Mode (possible)
+|_ Button for next/previous page
+|_ Loading spinner while the news loads
+|_ Infinite Scroll
+|_ Use of class components
+|_

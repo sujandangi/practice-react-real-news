@@ -1,0 +1,83 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Rita Liao",
+    "title": "China's EV upstart Xpeng ready to take off with flying permit",
+    "description": "Xpeng, a Chinese electric vehicle upstart, is gearing up to launch its eVTOL into the air as it secures a key regulatory greenlight. Aeroht, owned by Xpeng and Xpeng founder He Xiaopeng, just obtained a special flight permit from the Civil Aviation Administra…",
+    "url": "https://techcrunch.com/2023/02/01/chinas-ev-upstart-xpeng-ready-to-take-off-with-flying-permit/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/Flying_in_Skydive_Dubai.jpg?resize=1200,558",
+    "publishedAt": "2023-02-02T03:12:33Z",
+    "content": "Xpeng, a Chinese electric vehicle upstart, is gearing up to launch its eVTOL into the air as it secures a key regulatory greenlight.\r\nAeroht, owned by Xpeng and Xpeng founder He Xiaopeng, just obtain… [+2001 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Kirsten Korosec",
+    "title": "Nissan finally shows off the Max-Out EV convertible concept in IRL",
+    "description": "Nissan has finally showed a physical version of its the Nissan Max Out EV convertible concept ahead of the Nissan Futures event in Japan.",
+    "url": "https://techcrunch.com/2023/02/01/nissan-finally-shows-its-max-out-ev-convertible-concept-in-irl/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/02/230201_nissan_futures_japan_photo_01-source.jpg?resize=1200,800",
+    "publishedAt": "2023-02-02T02:54:07Z",
+    "content": "Way back in November 2021, Nissan shared renderings of four electric vehicle concepts with intriguing names like Chill-Out, Surf-Out, Hang-Out and Max-Out as part of its announcement to invest $17.6 … [+2068 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Ingrid Lunden",
+    "title": "Zopa, the UK neobank, raises $93M more at a $1B+ valuation",
+    "description": "After raising $300 million in a round led by SoftBank back in 2021, UK neobank Zopa has closed a deal to put more funding in its coffers.",
+    "url": "https://techcrunch.com/2023/02/01/zopa-the-uk-neobank-raises-93m-more-at-a-1b-valuation/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/02/gettyimages-696622564.jpg?resize=1200,801",
+    "publishedAt": "2023-02-02T00:12:28Z",
+    "content": "After raising $300 million in a round led by SoftBank back in 2021, UK neobank Zopa has closed a deal to put more funding in its coffers. The company — which provides consumers with lending services,… [+4052 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Harri Weber",
+    "title": "'Keep Lex filthy': Users react to queer dating app's new direction",
+    "description": "Lex, the venture-backed queer dating app, is changing. But founder Kel Rakowski says she encourages users to \"continue horny posting.\"",
+    "url": "https://techcrunch.com/2023/02/01/keep-lex-filthy-users-react-queer-dating-apps-redesign/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/02-metaverse-part-2.jpg?resize=1200,638",
+    "publishedAt": "2023-02-01T23:58:23Z",
+    "content": "Lex, the hookup and social app that launched in 2019 with a nod to lesbian personal ads from the 80s, is changing. Only, precisely how much will change is still an open question. Sure, the venture-ba… [+5592 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Natasha Mascarenhas",
+    "title": "Disclo aims to inspire inclusive workplaces - starting with disability accommodations",
+    "description": "Disclo is building software that helps employees ask for accommodation requests and activates employers to act on those asks.",
+    "url": "https://techcrunch.com/2023/02/01/disclo-aims-to-inspire-inclusive-workplaces-starting-with-disability-accommodations/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1339758099.jpg?resize=1200,800",
+    "publishedAt": "2023-02-01T23:21:06Z",
+    "content": "Disclo CEO and co-founder Hannah Olson was diagnosed with Lyme disease when she was in college. At the time, she didnt really see herself as someone with a disability, even though it meant spending h… [+5324 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Devin Coldewey",
+    "title": "'Inaudible' watermark could identify AI-generated voices",
+    "description": "Resemble AI's proposal for watermarking generated speech may not fix all our worries at once, but it's a step in the right direction.",
+    "url": "https://techcrunch.com/2023/02/01/inaudible-watermark-could-identify-ai-generated-voices/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1364050120.jpg?resize=1200,800",
+    "publishedAt": "2023-02-01T23:09:07Z",
+    "content": "The growing ease with which anyone can create convincing audio in someone else’s voice has a lot of people on edge, and rightly so. Resemble AI’s proposal for watermarking generated speech may not fi… [+4778 chars]"
+    }]
+}
